@@ -18,11 +18,11 @@ int main() {
         cout << arr[i] << " ";
     }
 
-    // while (m--) {
-    //     int p;
-    //     cin >> p;
-    //     cout << arr[p - 1] << '\n';
-    // }
+    while (m--) {
+        int p;
+        cin >> p;
+        cout << arr[p - 1] << '\n';
+    }
 }
 // int main(){
 //     int n = 99999;
