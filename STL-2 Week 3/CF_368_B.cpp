@@ -24,9 +24,3 @@ int main() {
         cout << arr[p - 1] << '\n';
     }
 }
-// int main(){
-//     int n = 99999;
-//     set<int>s;
-//     s.insert(n);
-//     cout << s.size() <<"\n";
-// }
